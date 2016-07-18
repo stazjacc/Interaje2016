@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plataforma Interaje</string>
+    <string name="loginActivity_btn_confirm">btn_confirm</string>
+</resources>
